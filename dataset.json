@@ -1,0 +1,433 @@
+[
+{
+	"id" : 0,
+	"group" : "antiperspirant",
+	"type" : "stick",
+	"brand" : "rexona",
+	"degree of sweating" : "plentiful",
+	"small" : 
+		{"sharpness": 1,
+		 "odor retention hour": 48,
+		"viev" :  "fruit",
+		"aroma" : "citrus"
+		},
+	"composition": ["aluminum"],
+	"price" : 327,
+	"marks on clothes" : "no",
+	"raiting" : 4.9
+},
+
+{
+				"id" : 1,
+				"group" : "antiperspirant",
+	"type" : "spray",
+	"brand" : "rexona",
+				"degree of sweating" : "medium",
+	"small" :
+		{"sharpness": 1,
+		"odor retention hour": 96,
+		"viev" :  "no fruit",
+		"aroma" : "pepper"
+		},
+	"composition": ["aluminum","ethanol"],
+	"price" : 174,
+	"marks on clothes" : "yes",
+	"raiting" : 4.85
+},
+
+{
+				"id" : 2,
+				"group" : "antiperspirant",
+"type" : "roll",
+"brand" : "nivea",
+				"degree of sweating" : "plentiful",
+"small" :
+	{"sharpness": 1,
+	"odor retention hour": 48,
+	"viev" :  "no fruit",
+	"aroma" : "no data"
+	},
+"composition": ["aluminum"],
+"price" : 325,
+"marks on clothes" : "yes",
+"raiting" : 4.95
+},
+
+{
+				"id" : 3,
+				"group" : "antiperspirant",
+"type" : "stick",
+"brand" : "dove",
+				"degree of sweating" : "plentiful",
+"small" :
+	{"sharpness": 1,
+	"odor retention hour": 48,
+	"viev" :  "no fruit",
+	"aroma" : "no data"
+	},
+"composition": ["aluminum"],
+"price" : 349,
+"marks on clothes" : "no",
+"raiting" : 4.95
+},
+
+{
+				"id" : 4,
+				"group" : "antiperspirant",
+"type" : "stick",
+"brand" : "rexona",
+				"degree of sweating" : "plentiful",
+"small" :
+	{"sharpness": 2,
+	"odor retention hour": 48,
+	"viev" :  "fruit",
+	"aroma" : "orange"
+	},
+"composition": ["aluminum"],
+"price" : 319,
+"marks on clothes" : "yes",
+"raiting" : 4.95
+},
+
+{
+				"id" : 5,
+				"group" : "antiperspirant",
+"type" : "stick",
+"brand" : "axe",
+				"degree of sweating" : "plentiful",
+"small" :
+	{"sharpness": 2,
+	"odor retention hour": 48,
+	"viev" :  "fruit",
+	"aroma" : "vanilla"
+	},
+"composition": ["aluminum"],
+"price" : 325,
+"marks on clothes" : "no",
+"raiting" : 4.85
+},
+
+{
+				"id" : 6,
+				"group" : "antiperspirant",
+"type" : "spray",
+"brand" : "axe",
+				"degree of sweating" : "medium",
+"small" :
+	{"sharpness": 2,
+	"odor retention hour": 48,
+	"viev" :  "no fruit",
+	"aroma" : "africa"
+	},
+"composition": ["aluminum"],
+"price" : 379,
+"marks on clothes" : "no",
+"raiting" : 4.9
+},
+
+{
+				"id" : 7,
+				"group" : "antiperspirant",
+"type" : "spray",
+"brand" : "dove",
+				"degree of sweating" : "medium",
+"small" :
+	{"sharpness": 2,
+	"odor retention hour": 24,
+	"viev" :  "no fruit",
+	"aroma" : "no data"
+	},
+"composition": ["aluminum"],
+"price" : 645,
+"marks on clothes" : "yes",
+"raiting" : 4.9
+},
+
+{
+				"id" : 8,
+				"group" : "antiperspirant",
+"type" : "spray",
+"brand" : "adidas",
+				"degree of sweating" : "medium",
+"small" :
+	{"sharpness": 1,
+	"odor retention hour": 72,
+	"viev" :  "no fruit",
+	"aroma" : "no data"
+	},
+"composition": ["aluminum"],
+"price" : 380,
+"marks on clothes" : "no",
+"raiting" : 4.95
+},
+
+{
+				"id" : 9,
+				"group" : "antiperspirant",
+"type" : "spray",
+"brand" : "deonica",
+				"degree of sweating" : "medium",
+"small" :
+	{"sharpness": 1,
+	"odor retention hour": 24,
+	"viev" :  "no fruit",
+	"aroma" : "no data"
+	},
+"composition": ["aluminum"],
+"price" : 606,
+"marks on clothes" : "no",
+"raiting" : 4.91
+},
+
+{
+				"id" : 10,
+				"group" : "antiperspirant",
+"type" : "spray",
+"brand" : "fa",
+				"degree of sweating" : "medium",
+"small" :
+	{"sharpness": 2,
+	"odor retention hour": 72,
+	"viev" :  "no fruit",
+	"aroma" : "cactus"
+	},
+"composition": ["aluminum"],
+"price" : 659,
+"marks on clothes" : "yes",
+"raiting" : 4.8
+},
+
+{
+				"id" : 11,
+				"group" : "deodorant",
+"type" : "spray",
+"brand" : "fa",
+	"degree of sweating" : null,
+"small" :
+{"sharpness": 2,
+"odor retention hour": 72,
+"viev" :  "no fruit",
+"aroma" : "no data"
+},
+"composition": ["aluminum"],
+"price" : 568,
+"marks on clothes" : "yes",
+"raiting" : 4.9
+},
+
+{
+				"id" : 12,
+				"group" : "deodorant",
+"type" : "spray",
+"brand" : "deonica",
+	"degree of sweating" : null,
+"small" :
+	{"sharpness": 3,
+	"odor retention hour": 48,
+	"viev" :  "no fruit",
+	"aroma" : "no data"
+	},
+"composition": ["aluminum"],
+"price" : 276,
+"marks on clothes" : "no",
+"raiting" : 4.9
+},
+
+{
+				"id" : 13,
+				"group" : "deodorant",
+"type" : "spray",
+"brand" : "old spice",
+	"degree of sweating" : null,
+"small" :
+	{"sharpness": 2,
+	"odor retention hour": 48,
+	"viev" :  "fruit",
+	"aroma" : "citrus"
+	},
+"composition": ["aluminum"],
+"price" : 470,
+"marks on clothes" : "yes",
+"raiting" : 4.9
+},
+
+{
+				"id" : 14,
+				"group" : "deodorant",
+"type" : "spray",
+"brand" : "dove",
+	"degree of sweating" : null,
+"small" :
+	{"sharpness": 3,
+	"odor retention hour": 48,
+	"viev" :  "no fruit",
+	"aroma" : "no data"
+	},
+	"composition": ["aluminum"],
+"price" : 226,
+"marks on clothes" : "yes",
+"raiting" : 5
+},
+
+{
+				"id" : 15,
+				"group" : "deodorant",
+"type" : "spray",
+"brand" : "garnier",
+	"degree of sweating" : null,
+"small" :
+	{"sharpness": 2,
+	"odor retention hour": 48,
+	"viev" :  "no fruit",
+	"aroma" : "aloe"
+	},
+"composition": ["aluminum"],
+"price" : 185,
+"marks on clothes" : "no",
+"raiting" : 4.8
+},
+
+{
+				"id" : 16,
+				"group" : "deodorant",
+"type" : "spray",
+"brand" : "axe",
+	"degree of sweating" : null,
+"small" :
+	{"sharpness": 3,
+	"odor retention hour": 48,
+	"viev" :  "no fruit",
+	"aroma" : "cookie"
+	},
+"composition": [],
+"price" : 359,
+"marks on clothes" : "yes",
+"raiting" : 5
+},
+
+{
+				"id" : 17,
+				"group" : "deodorant",
+"type" : "spray",
+"brand" : "adidas",
+	"degree of sweating" : null,
+"small" :
+	{"sharpness": 3,
+	"odor retention hour": 48,
+	"viev" :  "no fruit",
+	"aroma" : "no data"
+	},
+"composition": ["aluminum"],
+"price" : 360,
+"marks on clothes" : "yes",
+"raiting" : 4.95
+},
+
+{
+				"id" : 18,
+				"group" : "deodorant",
+"type" : "spray",
+"brand" : "fa",
+	"degree of sweating" : null,
+"small" :
+	{"sharpness": 3,
+	"odor retention hour": 48,
+	"viev" :  "fruit",
+	"aroma" : "coco"
+	},
+"composition": [],
+"price" : 229,
+"marks on clothes" : "no",
+"raiting" : 4.8
+},
+
+{
+				"id" : 19,
+				"group" : "deodorant",
+"type" : "spray",
+"brand" : "zeitun",
+	"degree of sweating" : null,
+"small" :
+	{"sharpness": 3,
+	"odor retention hour": 24,
+	"viev" :  "no fruit",
+	"aroma" : "lotus"
+	},
+"composition": [],
+"price" : 499,
+"marks on clothes" : "no",
+"raiting" : 4.65
+},
+
+{
+				"id" : 20,
+				"group" : "deodorant",
+"type" : "spray",
+"brand" : "zeitun",
+	"degree of sweating" : null,
+"small" :
+	{"sharpness": 3,
+	"odor retention hour": 24,
+	"viev" :  "no fruit",
+	"aroma" : "rose"
+	},
+"composition": [],
+"price" : 399,
+"marks on clothes" : "yes",
+"raiting" : 4.7
+},
+
+{
+				"id" : 21,
+				"group" : "deodorant",
+"type" : "spray",
+"brand" : "axe",
+	"degree of sweating" : null,
+"small" :
+	{"sharpness": 3,
+	"odor retention hour": 48,
+	"viev" :  "no fruit",
+	"aroma" : "apollo"
+	},
+"composition": [],
+"price" : 245,
+"marks on clothes" : "no",
+"raiting" : 4.95
+},
+
+{
+				"id" : 22,
+				"group" : "deodorizing wipes",
+"type" : "wipes",
+"brand" : "viteks",
+	"degree of sweating" : null,
+"small" :
+	{"sharpness": 3,
+	"odor retention hour": 24,
+	"viev" :  "no fruit",
+	"aroma" : "aloe"
+	},
+"composition": ["aluminum"],
+"price" : 105,
+"marks on clothes" : "yes",
+"raiting" : 4.6
+},
+
+{
+				"id" : 23,
+				"group" : "deodorizing wipes",
+"type" : "wipes",
+"brand" : "lp care",
+	"degree of sweating" : null,
+"small" :
+	{"sharpness": 3,
+	"odor retention hour": 2,
+	"viev" :  "no fruit",
+	"aroma" : "no data"
+	},
+"composition": ["aluminum"],
+"price" : 83,
+"marks on clothes" : "no",
+"raiting" : 4.85
+}
+]
